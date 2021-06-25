@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tombo SP 072-002</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-45.8000395490771</longitude>
+		<latitude>-23.3170691373704</latitude>
+		<altitude>0</altitude>
+		<heading>-0.00122</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Polyline [12AF]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Polyline [12AF]:0</name>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-45.8038179459356,-23.3347435729747,0 -45.8039561186074,-23.334906142706,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8039561186084,-23.334906142707,0 -45.8041570798291,-23.3349774512979,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80415707983009,-23.3349774512989,0 -45.80464297903849,-23.3347148407801,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8046429790395,-23.3347148407811,0 -45.8053979128395,-23.3345849742188,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8053979128405,-23.3345849742198,0 -45.8055996396253,-23.3344551279712,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8055996396263,-23.3344551279721,0 -45.8056737574275,-23.3341499206028,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80567375742849,-23.3341499206038,0 -45.8065238225827,-23.3338126748085,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80652382258371,-23.3338126748095,0 -45.8082593379898,-23.333484376909,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8082593379908,-23.33348437691,0 -45.8087878315657,-23.3332349562438,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8087878315667,-23.3332349562448,0 -45.8089568488384,-23.3330870055937,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8089568488394,-23.3330870055946,0 -45.8090990188166,-23.332926125272,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8090990188176,-23.332926125273,0 -45.8093824850462,-23.3327126045734,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8093824850472,-23.3327126045744,0 -45.80968608184009,-23.332402550755,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8096860818411,-23.332402550756,0 -45.81045802054391,-23.3317003921388,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8104580205449,-23.33170039213981,0 -45.81154109201951,-23.3310489616378,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8115410920205,-23.3310489616388,0 -45.8120754305434,-23.3307487104416,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8120754305444,-23.3307487104426,0 -45.8124880761393,-23.3305000017283,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8124880761403,-23.3305000017292,0 -45.8127863355723,-23.3301591293857,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8127863355733,-23.3301591293867,0 -45.8128725523326,-23.3299437758936,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8128725523336,-23.3299437758946,0 -45.8129245589986,-23.3297761999241,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81292455899959,-23.3297761999251,0 -45.813202561035,-23.3293291055943,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81320256103601,-23.3293291055953,0 -45.8135460479979,-23.3290479301019,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8135460479989,-23.3290479301029,0 -45.81400476507501,-23.3287209036712,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.814004765076,-23.3287209036722,0 -45.8141900987246,-23.3284589898611,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8141900987256,-23.3284589898621,0 -45.81429348479119,-23.3282843089196,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8142934847922,-23.3282843089206,0 -45.8144817326006,-23.3278211647808,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8144817326016,-23.3278211647818,0 -45.8144532201113,-23.3271705578686,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8144532201123,-23.3271705578696,0 -45.8139060995593,-23.327083139341,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81390609956031,-23.32708313934201,0 -45.8137012336441,-23.32701142976291,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8137012336451,-23.3270114297639,0 -45.8135112786767,-23.3269283365889,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81351127867771,-23.3269283365899,0 -45.8127838848192,-23.3264360987562,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8127838848202,-23.3264360987572,0 -45.8127219909031,-23.32636121199131,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81272199090411,-23.3263612119923,0 -45.81266557880251,-23.3262187873467,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8126655788035,-23.3262187873476,0 -45.812640617113,-23.3260804222558,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.812640617114,-23.3260804222568,0 -45.8125934379977,-23.3258998083724,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81259343799869,-23.3258998083734,0 -45.8125537056568,-23.3258170757364,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8125537056578,-23.32581707573741,0 -45.8124576986553,-23.325713436599,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8124576986563,-23.3257134366,0 -45.8121591509505,-23.3254585483592,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8121591509515,-23.3254585483602,0 -45.81191905438259,-23.325243076896,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8119190543836,-23.325243076897,0 -45.8117926504329,-23.3250958705151,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81179265043389,-23.3250958705161,0 -45.81182087703131,-23.3250029005015,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8118208770323,-23.3250029005025,0 -45.8122246009634,-23.3243328055055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8122246009644,-23.3243328055065,0 -45.8127151454894,-23.32350764359141,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8127151454904,-23.3235076435924,0 -45.8129041230238,-23.3232100061564,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8129041230248,-23.3232100061574,0 -45.8130509320408,-23.3229782188714,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8130509320418,-23.3229782188724,0 -45.81328555525269,-23.3221335014661,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81328555525371,-23.3221335014671,0 -45.81273968927629,-23.3212596612181,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8127396892773,-23.3212596612191,0 -45.81245776875851,-23.3207848722381,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8124577687595,-23.3207848722391,0 -45.8122837890294,-23.320445811331,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8122837890304,-23.320445811332,0 -45.812154264736,-23.3202740863692,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81215426473701,-23.3202740863702,0 -45.8120247436444,-23.3201782402311,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81202474364541,-23.3201782402321,0 -45.8118999285563,-23.320121793568,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8118999285573,-23.320121793569,0 -45.8115635262411,-23.3200261270406,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8115635262421,-23.3200261270416,0 -45.8111966949429,-23.3200144547356,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8111966949439,-23.3200144547366,0 -45.8109633263588,-23.3200784099444,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81096332635979,-23.3200784099454,0 -45.8106940626115,-23.32018604085991,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81069406261249,-23.3201860408609,0 -45.8104965499813,-23.3201770037861,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.81049654998229,-23.32017700378711,0 -45.8102864802645,-23.3200733964965,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8102864802655,-23.3200733964975,0 -45.8100607912554,-23.3198865596506,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8100607912564,-23.3198865596516,0 -45.8098069337185,-23.3196582139026,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8098069337195,-23.3196582139036,0 -45.8095550441669,-23.3201238675848,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8095550441679,-23.3201238675858,0 -45.8091835977048,-23.3202375208307,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80918359770579,-23.3202375208317,0 -45.808642446644,-23.3204334024212,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.808642446645,-23.3204334024222,0 -45.8085100442964,-23.3206130519465,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80851004429739,-23.3206130519475,0 -45.8082997607048,-23.3206444368364,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80829976070581,-23.3206444368374,0 -45.80819301706011,-23.3213358206563,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8081930170611,-23.3213358206573,0 -45.8081123352795,-23.3238150652118,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8081123352805,-23.3238150652128,0 -45.8080028402731,-23.3243260476736,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80800284027411,-23.3243260476746,0 -45.8075947828241,-23.3245603691989,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80759478282511,-23.3245603691999,0 -45.8072059164454,-23.3247985533771,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80720591644639,-23.3247985533781,0 -45.8068860282473,-23.3252981601927,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80688602824839,-23.3252981601937,0 -45.8067779631819,-23.3262306585098,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8067779631829,-23.3262306585108,0 -45.8071548473654,-23.326491141322,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8071548473664,-23.326491141323,0 -45.8069279286996,-23.3275768343121,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8069279287006,-23.3275768343131,0 -45.8072637568725,-23.3294240182064,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8072637568735,-23.3294240182074,0 -45.8088268388332,-23.3292461302317,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8088268388342,-23.3292461302327,0 -45.8086432469902,-23.33001934965751,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8086432469912,-23.3300193496585,0 -45.80766154585909,-23.3304592000125,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8076615458601,-23.3304592000135,0 -45.80636377935439,-23.3303817559222,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8063637793555,-23.3303817559232,0 -45.8061457873067,-23.3304220640359,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8061457873077,-23.3304220640369,0 -45.8055135016734,-23.331052057099,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8055135016744,-23.3310520571,0 -45.8049467309413,-23.3324667749717,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80494673094229,-23.3324667749727,0 -45.8049611928163,-23.333018940332,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8049611928173,-23.33301894033301,0 -45.80396524316339,-23.3340648638336,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8039652431644,-23.3340648638346,0 -45.8037920888215,-23.3345117649019,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8037920888225,-23.3345117649029,0 -45.8038179459346,-23.3347435729737,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>SP 072-002</name>
+		<description>ÁREA DE 1064800 M2. USINA CORONEL ABNER - UCA.
+Polígono Elaborado baseado em Imagens do Google Earth, portanto sem levantamento topográfico georreferenciado.</description>
+		<LookAt>
+			<longitude>-45.80242136651508</longitude>
+			<latitude>-23.3247721680136</latitude>
+			<altitude>0</altitude>
+			<heading>-0.147976210330229</heading>
+			<tilt>0</tilt>
+			<range>6210.459766693019</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_placemark_circle</styleUrl>
+		<Point>
+			<coordinates>-45.8114924079204,-23.32746739214134,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tombo SP 034-000</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-45.8270319784856</longitude>
+		<latitude>-23.320381005624</latitude>
+		<altitude>0</altitude>
+		<heading>-0.00122</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Polyline [13BB]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Polyline [13BB]:0</name>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-45.801182215085,-23.3165317158592,0 -45.80259088897661,-23.317850931908,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8025908889776,-23.317850931909,0 -45.8020862520686,-23.3183679001949,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.80208625206961,-23.3183679001959,0 -45.8019800322424,-23.3186162198102,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8019800322434,-23.3186162198112,0 -45.8017084904883,-23.3187167290484,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8017084904893,-23.3187167290494,0 -45.8010354250437,-23.3186580569241,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8010354250447,-23.3186580569251,0 -45.8003633175595,-23.3194155782142,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8003633175605,-23.3194155782152,0 -45.8001133859945,-23.319776338704,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8001133859955,-23.319776338705,0 -45.8000119577932,-23.3202278609456,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8000119577942,-23.3202278609465,0 -45.7997995857998,-23.3204842447226,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7997995858008,-23.3204842447236,0 -45.7989713539771,-23.321207921489,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7989713539781,-23.32120792149,0 -45.79888249521381,-23.3213085321731,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7988824952148,-23.3213085321741,0 -45.7985556620951,-23.3218430471174,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7985556620961,-23.3218430471184,0 -45.7982799211125,-23.3221190394668,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7982799211135,-23.3221190394678,0 -45.798075174332,-23.3219814719234,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.798075174333,-23.3219814719244,0 -45.79762552277061,-23.3217427120683,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7976255227716,-23.32174271206931,0 -45.7973371447775,-23.3215454885896,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7973371447785,-23.3215454885905,0 -45.7966557672362,-23.3210931803736,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7966557672372,-23.3210931803746,0 -45.79631942246831,-23.320768110609,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7963194224693,-23.32076811061,0 -45.79622003825,-23.3205241755417,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.796220038251,-23.3205241755427,0 -45.7958908222327,-23.3203903466875,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7958908222337,-23.32039034668851,0 -45.79548574904131,-23.320125636127,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7954857490423,-23.320125636128,0 -45.79527466316421,-23.3199802306319,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7952746631652,-23.3199802306329,0 -45.7947072160777,-23.319730250856,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.79470721607869,-23.319730250857,0 -45.7944609056443,-23.3196476594892,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.79446090564531,-23.3196476594902,0 -45.79421083955091,-23.3195066418119,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7942108395519,-23.3195066418129,0 -45.7940946593957,-23.3193914048375,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7940946593967,-23.3193914048385,0 -45.7938875475186,-23.319154565732,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7938875475196,-23.319154565733,0 -45.79357626107651,-23.3188942835575,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7935762610775,-23.3188942835585,0 -45.7929700585543,-23.3183289017638,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7929700585553,-23.3183289017648,0 -45.7927300359313,-23.3180018967809,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7927300359323,-23.3180018967819,0 -45.792637319486,-23.3176540131404,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.792637319487,-23.3176540131414,0 -45.7926322441101,-23.3171980919437,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7926322441111,-23.3171980919447,0 -45.7927331594165,-23.3168577882133,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7927331594176,-23.3168577882143,0 -45.7929595953046,-23.3162648151772,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7929595953056,-23.3162648151782,0 -45.7939503273143,-23.3162420999972,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7939503273153,-23.3162420999982,0 -45.79410415243301,-23.3162434816947,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.794104152434,-23.3162434816957,0 -45.7944435543803,-23.3162951301113,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7944435543813,-23.31629513011231,0 -45.7946549649258,-23.3163192531391,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7946549649268,-23.3163192531401,0 -45.7947879771782,-23.3161671244393,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.79478797717921,-23.3161671244403,0 -45.7949041336701,-23.3159681195878,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.79490413367111,-23.3159681195888,0 -45.7952273120053,-23.3158683106195,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7952273120063,-23.3158683106205,0 -45.7956649919211,-23.3158295597048,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7956649919221,-23.3158295597058,0 -45.795757814156,-23.3158009415,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.795757814157,-23.315800941501,0 -45.7968982632653,-23.3152206719925,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7968982632663,-23.3152206719935,0 -45.7971013666507,-23.3149117276066,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7971013666517,-23.3149117276076,0 -45.7974035989426,-23.3142281589569,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7974035989436,-23.3142281589579,0 -45.7979542120155,-23.313540300726,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.7979542120165,-23.313540300727,0 -45.80118221508399,-23.3165317158582,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>SP 034-000</name>
+		<description>ÁREA DE 488.000 M2. PEDREIRA.
+Polígono Elaborado baseado em Imagens do Google Earth, portanto sem levantamento topográfico georreferenciado.</description>
+		<LookAt>
+			<longitude>-45.80240570591109</longitude>
+			<latitude>-23.33033930658783</latitude>
+			<altitude>0</altitude>
+			<heading>-0.1479824117288909</heading>
+			<tilt>0</tilt>
+			<range>6330.316312831506</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_placemark_circle</styleUrl>
+		<Point>
+			<coordinates>-45.79912829097552,-23.31768773420851,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,5 @@
+X,Y,gid,Name,description,altitudeMode,tessellate,extrude
+-112.337028431857,36.1477215912211,1,Absolute,,absolute,1,0
+-112.338242216354,36.1464860739036,2,Absolute Extruded,,absolute,1,1
+-112.3328586986,36.1481314760881,3,Relative,,relativeToGround,1,0
+-112.336118919997,36.149371295611,4,Relative Extruded,,relativeToGround,1,1

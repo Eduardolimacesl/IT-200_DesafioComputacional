@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tombo SP 033-010</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-45.8672600850087</longitude>
+		<latitude>-23.2078666286861</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Polyline [C2F]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Polyline [C2F]:0</name>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-45.8735049908582,-23.2041248718664,0 -45.8735709379759,-23.2041951512235,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8735709379769,-23.2041951512245,0 -45.8773633228601,-23.1992260090472,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8773633228612,-23.1992260090482,0 -45.8772874728206,-23.1991687083377,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8772874728216,-23.1991687083387,0 -45.87350499085719,-23.2041248718654,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>SP 033-010</name>
+		<description>ÁREA DE 8610 M2. ANTIGA FAIXA DE TRANSMISSÃO DE ENERGIA DA SÃO PAULO LIGHT.
+Polígono Elaborado baseado em Imagens do Google Earth, portanto sem levantamento topográfico georreferenciado.</description>
+		<LookAt>
+			<longitude>-45.87380766089783</longitude>
+			<latitude>-23.20296889693609</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001867436775145275</heading>
+			<tilt>0</tilt>
+			<range>1482.292995164489</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_placemark_circle0</styleUrl>
+		<Point>
+			<coordinates>-45.8752126660652,-23.2018460332756,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

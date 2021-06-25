@@ -1,0 +1,7 @@
+X,Y,gid,Name,description,altitudeMode,tessellate,extrude
+-112.084225279152,36.098644318824,1,Tessellated,"If the <tessellate> tag has a value of 1, the line will contour to the underlying terrain",,1,0
+-112.082932402455,36.0986152931021,2,Untessellated,"If the <tessellate> tag has a value of 0, the line follow a simple straight-line path from point to point",,0,0
+-112.269168480047,36.0908406535887,3,Absolute,Transparent purple line,absolute,1,0
+-112.255852226791,36.0832820707175,4,Absolute Extruded,Transparent green wall with yellow outlines,absolute,1,1
+-112.25590452775,36.1007987628258,5,Relative,"Black line (10 pixels wide), height tracks terrain",relativeToGround,1,0
+-112.263800417712,36.0977247615372,6,Relative Extruded,"Opaque blue walls with red outline, height tracks terrain",relativeToGround,1,1

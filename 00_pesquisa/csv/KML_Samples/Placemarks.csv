@@ -1,0 +1,6 @@
+X,Y,Name,description,altitudeMode,extrude,visibility
+-122.082203542568,37.4222899014025,Simple placemark,"Attached to the ground. Intelligently places itself at the
+          height of the underlying terrain.",,0,-1
+-122.084075,37.4220033612141,Floating placemark,Floats a defined distance above the ground.,relativeToGround,0,0
+-122.085766700618,37.4215692786755,Extruded placemark,"Tethered to the ground by a customizable
+          ""tail""",relativeToGround,1,0

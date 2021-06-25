@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tombo SP 108-000</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-45.8569736941246</longitude>
+		<latitude>-23.2215912023398</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_placemark_circle1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Polyline [B51]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Polyline [B51]:0</name>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-45.85497397736739,-23.2206673436926,0 -45.85496330728089,-23.2205858491065,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8549633072819,-23.2205858491075,0 -45.85431532390581,-23.2194885067603,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8543153239068,-23.2194885067613,0 -45.8542709489857,-23.2194248550745,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.85427094898671,-23.2194248550755,0 -45.85206223691661,-23.2203202812827,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8520622369176,-23.2203202812837,0 -45.8526594628045,-23.2215958512581,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8526594628055,-23.2215958512591,0 -45.8527453353133,-23.2216081998416,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8527453353143,-23.2216081998426,0 -45.8549195433694,-23.2207246644413,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8549195433704,-23.2207246644423,0 -45.85495880281341,-23.2207071168076,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8549588028144,-23.2207071168086,0 -45.8549739773664,-23.2206673436916,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>SP 108-000</name>
+		<description>ÁREA DE   40.549,70 M2 . COMANDO DO DCTA.
+Polígono Elaborado baseado em Imagens do Google Earth, portanto sem levantamento topográfico georreferenciado.</description>
+		<LookAt>
+			<longitude>-45.85406827580491</longitude>
+			<latitude>-23.22170624744475</latitude>
+			<altitude>0</altitude>
+			<heading>-0.1087136777373661</heading>
+			<tilt>0</tilt>
+			<range>1105.635986645249</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_placemark_circle</styleUrl>
+		<Point>
+			<coordinates>-45.85390774746455,-23.22062061203659,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

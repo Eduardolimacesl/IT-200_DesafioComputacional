@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tombo SP 033-012</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-45.8545743475475</longitude>
+		<latitude>-23.2198698871508</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Polyline [B56]</name>
+			<Placemark>
+				<name>Polyline [B56]:0</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-45.8677848722828,-23.2383004059479,0 -45.8635686654499,-23.2377075407625,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8635686654509,-23.2377075407635,0 -45.8600882356192,-23.240901760164,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8600882356202,-23.240901760165,0 -45.8646373104058,-23.2451009145073,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.86463731040681,-23.2451009145083,0 -45.865446389378,-23.2445251607617,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.865446389379,-23.2445251607627,0 -45.86620218473261,-23.243931517649,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8662021847336,-23.24393151765,0 -45.8664267946312,-23.2437224813014,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.86642679463219,-23.2437224813024,0 -45.8666165675637,-23.2434904747835,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.86661656756471,-23.24349047478451,0 -45.866805444442,-23.2431879656684,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.866805444443,-23.2431879656694,0 -45.8669239060593,-23.2429184209365,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.86692390606031,-23.2429184209375,0 -45.8670427912833,-23.2424602029313,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8670427912843,-23.2424602029323,0 -45.8677848722818,-23.2383004059469,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>SP 033-012</name>
+		<description>ÁREA DE 648.645,40 M2. ÁREA DAÇÃO EM PAGAMENTO. ANTIGA ÓRBITA.
+Polígono Elaborado baseado em Imagens do Google Earth, portanto sem levantamento topográfico georreferenciado.</description>
+		<LookAt>
+			<longitude>-45.85929430135488</longitude>
+			<latitude>-23.241153300191</latitude>
+			<altitude>0</altitude>
+			<heading>-1.771237886583992</heading>
+			<tilt>0</tilt>
+			<range>4834.22009081702</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_placemark_circle</styleUrl>
+		<Point>
+			<coordinates>-45.86527989341806,-23.24107824854223,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tombo SP 033-009</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-45.8672600850087</longitude>
+		<latitude>-23.2078666286861</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>0.1</range>
+	</LookAt>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Polyline [C31]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Polyline [C31]:0</name>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							-45.8645445044243,-23.1992363884555,0 -45.8644475812854,-23.199462543962,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8644475812864,-23.199462543963,0 -45.86435128359901,-23.1996811610596,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8643512836,-23.1996811610606,0 -45.8642822056805,-23.1998306988179,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8642822056815,-23.1998306988189,0 -45.8641066723479,-23.200151225799,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8641066723489,-23.2001512258,0 -45.8728077881064,-23.2048982174024,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8728077881074,-23.2048982174034,0 -45.8779551451547,-23.2103834228785,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8779551451557,-23.2103834228795,0 -45.8782064433869,-23.2109226213019,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8782064433879,-23.2109226213029,0 -45.8786483009128,-23.2105008498989,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8786483009138,-23.2105008498999,0 -45.8788663870066,-23.210954892165,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.87886638700759,-23.210954892166,0 -45.87842004969449,-23.2113809398785,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.87842004969551,-23.2113809398795,0 -45.8809104392877,-23.2167241170551,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8809104392887,-23.2167241170561,0 -45.8813997488973,-23.217590436528,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8813997488983,-23.217590436529,0 -45.8815556608108,-23.2178514242261,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8815556608118,-23.2178514242271,0 -45.8818505841672,-23.2182170797555,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8818505841682,-23.2182170797565,0 -45.8820762610438,-23.2184679205304,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8820762610448,-23.2184679205314,0 -45.8822608178378,-23.2186683828519,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8822608178388,-23.2186683828529,0 -45.88239974583999,-23.2188101236138,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.882399745841,-23.2188101236148,0 -45.8830922168652,-23.2195166111167,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8830922168662,-23.2195166111177,0 -45.88385618839139,-23.2188161737901,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8838561883924,-23.2188161737911,0 -45.8830695282206,-23.2180135948533,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8830695282216,-23.2180135948543,0 -45.8829123453928,-23.2178432538406,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8829123453938,-23.2178432538416,0 -45.88278152293951,-23.2176919179826,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8827815229405,-23.2176919179836,0 -45.88274025360799,-23.2176479331036,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.882740253609,-23.2176479331046,0 -45.8826856368488,-23.2175903001339,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8826856368498,-23.21759030013491,0 -45.8826276991314,-23.2175191009736,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.88262769913239,-23.2175191009746,0 -45.882593074154,-23.2174764146555,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.882593074155,-23.2174764146565,0 -45.8825406874497,-23.2174136901641,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.88254068745069,-23.2174136901651,0 -45.8824644856079,-23.2173170623113,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8824644856089,-23.2173170623123,0 -45.88240805400091,-23.2172223422249,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8824080540019,-23.2172223422259,0 -45.8823520503319,-23.2171289321296,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8823520503329,-23.2171289321306,0 -45.8823262832855,-23.2170808470194,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8823262832865,-23.2170808470204,0 -45.88229854422071,-23.2170333727246,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8822985442217,-23.2170333727256,0 -45.8822447748013,-23.2169389275744,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8822447748023,-23.2169389275754,0 -45.8821906010196,-23.2168416782872,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8821906010206,-23.2168416782882,0 -45.8821341656915,-23.2167457351134,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8821341656925,-23.2167457351144,0 -45.8820798593115,-23.2166511872302,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8820798593125,-23.2166511872312,0 -45.882025513871,-23.2165570785216,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.88202551387199,-23.2165570785226,0 -45.8819704387266,-23.2164583477339,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.88197043872761,-23.2164583477349,0 -45.88191701711909,-23.2163646047599,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8819170171201,-23.2163646047609,0 -45.88188699446199,-23.2163080484075,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.881886994463,-23.2163080484085,0 -45.87887640409291,-23.2098488058629,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8788764040939,-23.2098488058639,0 -45.87350499085719,-23.2041248718654,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							-45.8735049908582,-23.2041248718664,0 -45.86454450442331,-23.19923638845451,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Placemark>
+		<name>SP 033-009</name>
+		<description>ÁREA DE 324756 m2. Antiga Faixa SÃO PAULO LIGHT.
+Polígono Elaborado baseado em Imagens do Google Earth, portanto sem levantamento topográfico georreferenciado.</description>
+		<LookAt>
+			<longitude>-45.8747174757746</longitude>
+			<latitude>-23.20775239643773</latitude>
+			<altitude>0</altitude>
+			<heading>-0.002165822869871468</heading>
+			<tilt>0</tilt>
+			<range>4129.852390781246</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_placemark_circle</styleUrl>
+		<Point>
+			<coordinates>-45.87571011101538,-23.20715291776068,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
